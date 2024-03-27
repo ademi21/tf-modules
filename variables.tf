@@ -3,7 +3,7 @@ variable "service_account_id" {
     default = "service-account"  
 }
 
-variable "service_account_display_id" {
+variable "service_account_display_name" {
     type = string 
     default = "Service Account"  
 }
